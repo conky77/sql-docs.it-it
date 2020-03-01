@@ -27,7 +27,7 @@ I driver di database di Microsoft ODBC Desktop supportano le funzioni scalari se
   
 ||||  
 |-|-|-|  
-|CONCATENA|LCASE|RIGHT|  
+|CONCAT|LCASE|RIGHT|  
 |CONVERT|LEFT|RTRIM|  
 |CURDATE|LENGTH|SUBSTRING|  
 |CURTIME|LOCATE|UCASE|  
